@@ -1,0 +1,11 @@
+ { 
+   "browser":"firefox",
+   "url":"https://www.saucedemo.com/", 
+   "username":"standard_user",
+   "password":"secret_sauce",
+   "Firstname":"john",
+   "Lastname":"kent",
+   "Zip_Postalcode":"000000",
+   "confirmationtext":"Thank you for your order!",
+   "Producttext":"Products"
+}
